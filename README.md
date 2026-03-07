@@ -1,49 +1,108 @@
+<div align="center">
 
-<div align="center"> <img src="https://res.cloudinary.com/dvzingci9/image/upload/v1691682049/Personal_Branding/Frame_164_meg7rg.png"> </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Cá%20Votree&fontAlign=50&fontAlignY=40&color=gradient&fontSize=50" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Cá+Votree!;" />
+<h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Cá+Votree;Game+Developer;Tool+Builder;Minecraft+Plugin+Developer" />
 </h1>
 
-<h3 align="center">I'm a Game Developer </h3>
+<h3>Game Developer from Vietnam 🇻🇳</h3>
 
-<br/>
+<br>
+
+🌍 Based in **Vietnam **
+
+🔭 Founder of **Votree Studio**
+
+🌱 Currently learning **C++ and JavaScript**
+
+👯 Looking to collaborate on **AI, Tools, and Web Projects**
+
+📫 Contact: **[cavotree@gmail.com](mailto:cavotree@gmail.com)**
+
+🌐 Portfolio: **https://cavotree.io.vn**
+
+</div>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
 
- 🌍 I'm based in Vietnamese 
- 
- 🔭 I’m currently working on **a chat app**
+<a href="https://github.com/Ca-Votree">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
- 
- </div>
+<a href="https://fb.com/Cavotree">
+<img src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png" height="50"/>
+</a>
+
+<a href="https://discord.gg/ca_votree">
+<img src="https://skillicons.dev/icons?i=discord" height="50"/>
+</a>
+
+</div>
+
+---
+
+<h2 align="center">⚒️ Languages & Tools</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,java,js,python,nodejs,express,mysql,postgres,docker,git,linux,unity,blender,arduino,cloudflare,godot,discordjs,docker,debian,css,vscode&perline=7" />
+
+</div>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+🔹 **Minecraft Plugin Systems**
+
+🔹 **Server Management Tools**
+
+🔹 **Automation Tools**
+
+🔹 **AI Experiments**
+
+🔹 **Web Applications**
+
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ca-Votree&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ca-Votree&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ca-Votree&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 
-- 🔭 I'm currently working on **sáng lập votree studio**
+<h2 align="center">🐍 Contribution Snake</h2>
 
-- 🌱 I'm currently learning **C++, Javascript **
+<div align="center">
 
-- 👯 I'm looking to collaborate on **AI, tool software, web**
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
-- 📫 How to reach me **cavotree@gmail.com**
+</div>
 
-- 👨‍💻 All of my projects are available at **[https://cavotree.io.vn](https://cavotree.io.vn)**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Ca-Votree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ca-Votree" height="30" width="40" /></a>
-<a href="https://fb.com/Cavotree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Cavotree" height="30" width="40" /></a>
-<a href="https://discord.gg/ca_votree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ca_votree" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
+⭐ From **Cá Votree**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ca-Votree&show_icons=true&locale=en&layout=compact" alt="Ca-Votree" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ca-Votree&show_icons=true&locale=en" alt="Ca-Votree" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ca-Votree&" alt="Ca-Votree" /></p>
-
-
+</div>
