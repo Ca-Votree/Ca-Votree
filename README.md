@@ -60,9 +60,7 @@
 
 <div align="center">
 
-🔹 **Minecraft Plugin Systems**
-
-🔹 **Server Management Tools**
+🔹 **AuToBank Plugin**
 
 🔹 **Automation Tools**
 
